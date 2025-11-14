@@ -1,17 +1,21 @@
-team,tier,group,table_index,Association,Team,Qualification method,Ref.,Pos,Pld,W,L,PF,PA,PD,Pts,Qualification
-Nairobi City Thunder,Tier 1,East Division,2,Kenya,Nairobi City Thunder,2024–25KBF Premier Leaguechampions,[13],,,,,,,,,
-Namuwongo Blazers,Tier 2,East Division,2,Uganda,Namuwongo Blazers,1st ranked team in 2025NBL Uganda[a],,,,,,,,,,
-Ferroviario Da Beira,Tier 1,East Division,2,Mozambique,Ferroviário da Beira,2024Liga Moçambicana de Basquetebolchampions,[18],,,,,,,,,
-Bravehearts,Tier 3,East Division,2,Malawi,Bravehearts,2025BASMAL National Championshipchampions,[20],,,,,,,,,
-Johannesburg Giants,Tier 2,East Division,2,South Africa,Johannesburg Giants,2025South African National Basketball Championshipchampions,[21],,,,,,,,,
-Matero Magic,Tier 2,East Division,2,Zambia,Matero Magic,2024–25Zambia Basketball Leaguechampions,[23],,,,,,,,,
-Namuwongo Blazers,Tier 2,Group D,7,,Namuwongo Blazers,,,2,2,1,1,202,141,+61,3,
-Johannesburg Giants,Tier 2,Group E,8,,Johannesburg Giants,,,1,5,5,0,362,280,+82,10,Advance toElite 16
-Ferroviario Da Beira,Tier 1,Group E,8,,Ferroviário da Beira,,,2,5,4,1,432,378,+54,9,
-Matero Magic,Tier 2,Group E,8,,Matero Magic(H),,,3,5,3,2,383,280,+103,8,
-Bravehearts,Tier 3,Group E,8,,Bravehearts,,,4,5,2,3,346,354,−8,7,
-Namuwongo Blazers,Tier 2,Group A,11,,Namuwongo Blazers,,,1,0,0,0,0,0,0,0,Advance to final round
-Nairobi City Thunder,Tier 1,Group A,11,,Nairobi City Thunder(H),,,3,0,0,0,0,0,0,0,
-Matero Magic,Tier 2,Group A,11,,Matero Magic,,,4,0,0,0,0,0,0,0,
-Ferroviario Da Beira,Tier 1,Group A,11,,Ferroviário da Beira,,,5,0,0,0,0,0,0,0,
-Johannesburg Giants,Tier 2,Group A,11,,Johannesburg Giants,,,6,0,0,0,0,0,0,0,
+Stage,Team,Tier,Country,Group,Position,Played,Won,Lost,Points_For,Points_Against,Point_Diff,Points,Qualification_Method,Status
+Domestic Qualification,Nairobi City Thunder,Tier 1,Kenya,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2024-25 KBF Premier League champions,Qualified
+Domestic Qualification,Namuwongo Blazers,Tier 2,Uganda,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1st ranked team in 2025 NBL Uganda,Qualified
+Domestic Qualification,Ferroviario da Beira,Tier 1,Mozambique,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2024 Liga Moçambicana de Basquetebol champions,Qualified
+Domestic Qualification,Bravehearts,Tier 3,Malawi,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2025 BASMAL National Championship champions,Qualified
+Domestic Qualification,Johannesburg Giants,Tier 2,South Africa,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2025 South African National Basketball Championship champions,Qualified
+Domestic Qualification,Matero Magic,Tier 2,Zambia,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2024-25 Zambia Basketball League champions,Qualified
+Domestic Qualification,Dar City,Tier 3,Tanzania,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Domestic qualification,Qualified
+Preliminary Groups,Dar City,Tier 3,Tanzania,D,1,2,2,0,185,120,+65,4,Group D winner,Advanced to Elite 16
+Preliminary Groups,Namuwongo Blazers,Tier 2,Uganda,D,2,2,1,1,202,141,+61,3,Group D runner-up,Advanced to Elite 16
+Preliminary Groups,Johannesburg Giants,Tier 2,South Africa,E,1,5,5,0,362,280,+82,10,Group E winner - Undefeated,Advanced to Elite 16
+Preliminary Groups,Ferroviario da Beira,Tier 1,Mozambique,E,2,5,4,1,432,378,+54,9,Group E runner-up,Advanced to Elite 16
+Preliminary Groups,Matero Magic,Tier 2,Zambia,E,3,5,3,2,383,280,+103,8,Group E 3rd place - Host,Advanced to Elite 16
+Preliminary Groups,Bravehearts,Tier 3,Malawi,E,4,5,2,3,346,354,-8,7,Group E 4th place,Advanced to Elite 16
+Elite 16,Nairobi City Thunder,Tier 1,Kenya,A,TBD,0,0,0,0,0,0,0,Host team - Direct entry,Elite 16 Group A
+Elite 16,Namuwongo Blazers,Tier 2,Uganda,A,TBD,0,0,0,0,0,0,0,Group D qualifier,Elite 16 Group A
+Elite 16,Johannesburg Giants,Tier 2,South Africa,A,TBD,0,0,0,0,0,0,0,Group E winner,Elite 16 Group A
+Elite 16,Dar City,Tier 3,Tanzania,B,TBD,0,0,0,0,0,0,0,Group D winner,Elite 16 Group B
+Elite 16,Ferroviario da Beira,Tier 1,Mozambique,B,TBD,0,0,0,0,0,0,0,Group E runner-up,Elite 16 Group B
+Elite 16,Matero Magic,Tier 2,Zambia,B,TBD,0,0,0,0,0,0,0,Group E 3rd place,Elite 16 Group B
+Elite 16,Bravehearts,Tier 3,Malawi,B,TBD,0,0,0,0,0,0,0,Group E 4th place,Elite 16 Group B

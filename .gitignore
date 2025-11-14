@@ -29,6 +29,13 @@ env/
 # Google API Credentials
 credentials.json
 
+# Downloaded HTML files (may contain API keys/secrets)
+*.html
+
+# JavaScript files from scraped sources (may contain API keys)
+standings_script*.js
+elite16_script*.js
+
 # IDE
 .vscode/
 .idea/
